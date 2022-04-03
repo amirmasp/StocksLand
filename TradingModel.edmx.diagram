@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3cb68db50c69485b8702d22e5d78a316" Name="Diagram1" >
+        <EntityTypeShape EntityType="TradingModel.Admin" Width="1.5" PointX="10.75" PointY="2.75" />
+        <EntityTypeShape EntityType="TradingModel.Transaction" Width="1.5" PointX="6.75" PointY="2.25" />
+        <EntityTypeShape EntityType="TradingModel.User" Width="1.5" PointX="9.25" PointY="4.875" />
+        <EntityTypeShape EntityType="TradingModel.Company" Width="1.5" PointX="4.375" PointY="4.75" />
+        <AssociationConnector Association="TradingModel.CompanyUser" />
+        <AssociationConnector Association="TradingModel.TransactionUser" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
