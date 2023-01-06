@@ -5,13 +5,11 @@
 
 Above is the address of sourceCode of StockLand application written in C# language at dotnet platform.
 
-## Developer: 
-##### Amir Asdaghpour
+## Developer:
+`Amir Asdaghpour`
 
 Graduated Student, University of Arizona
-
 Electrical & Computer Engineering
-
 (480)359-8020
 
 `amirmasp@gmail.com`
