@@ -9,7 +9,9 @@ Above is the address of sourceCode of StockLand application written in C# langua
 `Amir Asdaghpour`
 
 Graduated Student, University of Arizona
+
 Electrical & Computer Engineering
+
 (480)359-8020
 
 `amirmasp@gmail.com`
