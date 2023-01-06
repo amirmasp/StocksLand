@@ -1,7 +1,7 @@
 # StockLandV1: A Stock Trading Platform Version 1
 ## Source code:
 
-`$ cd .../repos/amirmasp/StockLand` stored in my local device.
+[StockLand](https://github.com/amirmasp/StockLand) which is a private Repo.
 
 Above is the address of sourceCode of StockLand application written in C# language at dotnet platform.
 
