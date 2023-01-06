@@ -1,7 +1,7 @@
 # StockLandV2: A Stock Trading Platform Version 2
 ## Source code:
 
-`$ cd -r /mnt/c/Users/amira/source/repos/amirmasp/StockLand`
+`$ cd .../repos/amirmasp/StockLand` stored in my local device.
 
 Above is the address of sourceCode of StockLand application written in C# language at dotnet platform.
 
