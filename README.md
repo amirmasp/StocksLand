@@ -1,4 +1,6 @@
-# StockLandV1: A Stock Trading Platform Version 1
+# StockLand 'Demo': A Stock Trading Platform 
+Version 1.1:
+
 ## Source code:
 
 [StockLand](https://github.com/amirmasp/StockLand) which is a private Repo.
